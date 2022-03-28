@@ -3,5 +3,5 @@
 ## Execution
 
 ```
-sh name_of_file.sh php8.1
+sh phpversion.sh php8.1
 ```
