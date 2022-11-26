@@ -1,6 +1,4 @@
-# change-php-version-bash
-
-## Execution
+# Change PHP version
 
 ```
 sh phpversion.sh php8.1
